@@ -1,0 +1,70 @@
+[
+ {
+  "nickName": "c1",
+  "type": "cat",
+  "age": 5,
+  "ownerID": "U01"
+ },
+ {
+  "nickName": "c2",
+  "type": "cat",
+  "age": 8,
+  "ownerID": "U01"
+ },
+ {
+  "nickName": "c3",
+  "type": "cat",
+  "age": 4,
+  "ownerID": "U02"
+ },
+ {
+  "nickName": "c4",
+  "type": "cat",
+  "age": 9,
+  "ownerID": "U03"
+ },
+ {
+  "nickName": "c5",
+  "type": "cat",
+  "age": 5
+ },
+ {
+  "nickName": "c6",
+  "type": "cat",
+  "age": 2
+ },
+ {
+  "nickName": "d1",
+  "type": "dog",
+  "age": 4,
+  "ownerID": "U04"
+ },
+ {
+  "nickName": "d2",
+  "type": "dog",
+  "age": 5,
+  "ownerID": "U01"
+ },
+ {
+  "nickName": "d3",
+  "type": "dog",
+  "age": 5,
+  "ownerID": "U02"
+ },
+ {
+  "nickName": "d4",
+  "type": "dog",
+  "age": 6,
+  "ownerID": "U03"
+ },
+ {
+  "nickName": "d5",
+  "type": "dog",
+  "age": 7
+ },
+ {
+  "nickName": "d6",
+  "type": "dog",
+  "age": 8
+ }
+]
