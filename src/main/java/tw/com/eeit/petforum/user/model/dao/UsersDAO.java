@@ -28,7 +28,7 @@ public class UsersDAO {
 	 * 根據使用者的ID取的使用者的所有資料。
 	 * <p>
 	 * 
-	 * @param userID 使用者的ID
+	 * @param userID 使用者的ID。
 	 * @return Users 使用者的java bean，裡面有使用者的所有資料； 若ID不存在則回傳null。
 	 */
 	public Users getUsersByID(String userID) throws SQLException {
